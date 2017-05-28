@@ -8,4 +8,4 @@ https://github.com/Wilton011293/Pow-proyecto01.git
 > ed096681fd32a5fbc1d4d1e0018514e77e29fe22 ( esto genero el token).
 > es muy importante por que con este estamos esbleciendo la seguridad de la comunicaion entre el servidor github y nuetro cliente que ba ser heihub
 
-Clase loquera
+Clase loquera la tuya wilton
