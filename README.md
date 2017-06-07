@@ -8,6 +8,6 @@ AUTORES:
 
 -Wilton Eliel Rodriguez Gutierrez
 
--Marely del Socorro Sanchez Bravo
+-Erick Adonis Robergeau urbina
 
 -Norvin Efren Reyes Davila
