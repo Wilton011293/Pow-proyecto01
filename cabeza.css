@@ -1,0 +1,75 @@
+
+/* AQUI SE A CODIFICADO LA PARTE DE DISEÑO DEL DIV 
+CON ID="cabeza"*/
+*body{
+	padding: 10px;
+}
+
+/* area del nav*/
+#cabeza>header>nav{
+	font-size: 1.5em;
+	position: relative;
+	top: 265px;
+	background-color:#999;
+	width: 250px;
+}
+#cabeza>header>nav>a{
+	margin-left: 30px;
+
+}
+/* area del slader*/
+#deslizar{
+	background-color: #155;
+	width:100%;
+	display: inline-block;
+	margin-top: 30px;
+}
+
+/* area del idioma*/
+#idioma{
+	position: absolute;
+    border: 2px solid #236;
+    width: 120px;
+    height: 30px;
+    background-color: #159;
+    top: 10px;
+    left: 1080px;
+}
+/*area de notificaciones*/
+#notificaciones{
+	position: absolute;
+	top: 3px;
+	left: 1230px;
+	border-radius: 20px;
+ }
+ /* area del div login*/
+ #logiar{
+ 	width: 300px;
+ 	position: absolute;
+ 	left: 1000px;
+
+ }
+ #c_cuenta{
+ 	position:relative;
+ 	top: 5px;
+ 	background-color: #15a;
+ 	border-radius: 10px;
+ }
+ #ini_secion{
+  	position:relative;
+  	top: 5px;
+  	background-color: #15a;
+ 	border-radius: 10px;	
+ }
+ #logiar>div{
+ 	position: relative;
+ 	display: inline-block;
+ 	margin-left: 10px;
+ 	font-size: 1.5em;
+ 	color: #135;
+ 	height: 35px;
+ }
+ #logiar>div>p{
+ 	position: relative;
+ 	margin-top: 2px;
+ }
