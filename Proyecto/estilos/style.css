@@ -1,0 +1,129 @@
+/*Pocicionamiento del logo*/
+header{
+	
+	position: fixed;
+	width: 100%;
+	
+
+}
+header .nombre img{
+
+	position: absolute;
+	width: 10%;
+	height: 57%;
+	left: 25%;
+	top: 1.1%;
+
+}
+.enlaces ul a{
+	color: white;
+}
+
+.nombre{
+	margin-top: -20px;
+	background:#5FB404;
+	padding-top: 1.5%;
+	padding-bottom: 1.5%;
+	
+	border-bottom: 2px solid;
+	font-family:  cursive;
+
+	text-shadow: -1px 0 black, 0 1px black,
+	  1px 0 black, 0 -1px black
+}
+
+.nombre h1{
+	margin-left: 38%;
+}
+/*Creacion del menu de navegacion*/
+.enlaces{
+	padding-top: 1.3%;
+	padding-bottom: 0.5%;
+	background: #FE2E2E;
+
+	
+}
+.enlaces ul li{
+	
+	list-style: none;
+	text-align: center;
+
+}
+
+.enlaces ul li> a{
+	text-decoration: none;
+}
+
+
+
+
+.idioma{
+	display: none;
+}
+.enlaces ul li:hover > a{
+	
+	
+
+	padding-bottom: 15.5px;
+	
+
+}
+
+.enlaces ul li:hover > ul {
+	top: 25px;
+	left: 0px;
+	display: block;
+	position: absolute;
+	margin-top: 10px;
+	margin-left: -10px;
+	background: #FA5858;
+	padding-right: 20px;
+	
+}
+/*Parte del eslaider*/
+
+
+.slider{
+	width: 95%;
+	margin: auto;
+	padding-top: 12%;
+}
+.slider ul{
+	
+	animation-direction: alternate;
+
+	display: flex;
+	padding:0;
+}
+.slider li{
+	width: 100%;
+	list-style: none;
+}
+.slider img{
+	width: 100%;
+}
+
+/*menu de contenido*/
+
+.contenido li{
+	list-style: none;
+	padding: 5px;
+	border-top: solid 1px;
+
+
+}
+.contenido ul{
+	width: 18%;
+	font-size: 1.5em;
+	background: #F7FE2E;
+	border-radius: 5px;
+}
+.contenido{
+	margin-top: 5%;
+	margin-left: 2%;
+
+}
+
+.contenido a{
+	text-decoration: none;
+}
